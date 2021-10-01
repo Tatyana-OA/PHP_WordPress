@@ -62,7 +62,7 @@ jQuery( document ).ready(function() {
 		//  console.log(e.target.parentNode)
 		//  console.log('liked')
 		 let data = {
-			action: 'eig_tackle_lg_likes',
+			action: 'tackle_lg_likes',
 			clickedPhoto:isActivePhoto
 		}
 		if ( data != null ) {
